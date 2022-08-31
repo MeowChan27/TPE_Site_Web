@@ -1,3 +1,4 @@
 # TPE_Site_Web
 
-Launch the files : index.html
+Download the all the documents and launch the file : index.html.
+This site is using a template HTML5UP.
